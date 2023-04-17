@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ankurjain00/testcafe-boilerplate.git"
+    "url": "git+https://github.com/janakindl/calculator_coop_testcafe/"
   },
   "dependencies": {
     "testcafe": "^2.3.0"
