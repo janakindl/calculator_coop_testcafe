@@ -1,0 +1,16 @@
+{
+  "name": "testcafe-calculator",
+  "version": "1.0.0",
+  "description": "testcafe calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe 'chrome' tests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankurjain00/testcafe-boilerplate.git"
+  },
+  "dependencies": {
+    "testcafe": "^2.3.0"
+  }
+}
