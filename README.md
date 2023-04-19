@@ -9,5 +9,5 @@ https://testcafe.io/documentation/402635/guides/overview/getting-started
 ## To test
 open with vscode
 open terminal
-### npm install
-### npm run test
+npm install
+npm run test
