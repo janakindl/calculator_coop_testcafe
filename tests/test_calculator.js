@@ -24,6 +24,7 @@ test('Check if customer can change values', async t => {
     const getLocation = ClientFunction(() => document.location.href.toString());
 
     await t
+    .setTestSpeed(0.8)
     .maximizeWindow()
     .click(askAlone)  // clicks on tab "Taotlen yksi"
     .click(maxIncome)  // clicks on monthly income field
